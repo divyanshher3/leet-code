@@ -9,6 +9,7 @@ my problems
 | [0033-search-in-rotated-sorted-array](https://github.com/divyanshher3/leet-code/tree/master/0033-search-in-rotated-sorted-array) |
 | [0075-sort-colors](https://github.com/divyanshher3/leet-code/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/divyanshher3/leet-code/tree/master/0088-merge-sorted-array) |
+| [0283-move-zeroes](https://github.com/divyanshher3/leet-code/tree/master/0283-move-zeroes) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/divyanshher3/leet-code/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Binary Search
 |  |
@@ -25,6 +26,7 @@ my problems
 | ------- |
 | [0075-sort-colors](https://github.com/divyanshher3/leet-code/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/divyanshher3/leet-code/tree/master/0088-merge-sorted-array) |
+| [0283-move-zeroes](https://github.com/divyanshher3/leet-code/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/divyanshher3/leet-code/tree/master/0344-reverse-string) |
 ## Sorting
 |  |
