@@ -13,6 +13,7 @@ my problems
 | [0283-move-zeroes](https://github.com/divyanshher3/leet-code/tree/master/0283-move-zeroes) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/divyanshher3/leet-code/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/divyanshher3/leet-code/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [2109-adding-spaces-to-a-string](https://github.com/divyanshher3/leet-code/tree/master/2109-adding-spaces-to-a-string) |
 ## Binary Search
 |  |
 | ------- |
@@ -34,6 +35,7 @@ my problems
 | [0189-rotate-array](https://github.com/divyanshher3/leet-code/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/divyanshher3/leet-code/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/divyanshher3/leet-code/tree/master/0344-reverse-string) |
+| [2109-adding-spaces-to-a-string](https://github.com/divyanshher3/leet-code/tree/master/2109-adding-spaces-to-a-string) |
 ## Sorting
 |  |
 | ------- |
@@ -53,4 +55,9 @@ my problems
 | [0125-valid-palindrome](https://github.com/divyanshher3/leet-code/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/divyanshher3/leet-code/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/divyanshher3/leet-code/tree/master/0344-reverse-string) |
+| [2109-adding-spaces-to-a-string](https://github.com/divyanshher3/leet-code/tree/master/2109-adding-spaces-to-a-string) |
+## Simulation
+|  |
+| ------- |
+| [2109-adding-spaces-to-a-string](https://github.com/divyanshher3/leet-code/tree/master/2109-adding-spaces-to-a-string) |
 <!---LeetCode Topics End-->
