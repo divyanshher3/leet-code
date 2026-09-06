@@ -1,7 +1,8 @@
 class Solution {
 public:
-    string addSpaces(string s, vector<int>& spaces) {
+    string addSpaces(const string s,const vector<int>& spaces) {
         string ans = "";
+        ans.reserve(s.length() + spaces.size());
         int j= 0;
         for(int i = 0 ; i < s.length() ; i++){
              string temp = "";
