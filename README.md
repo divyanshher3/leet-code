@@ -55,9 +55,15 @@ my problems
 | [0125-valid-palindrome](https://github.com/divyanshher3/leet-code/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/divyanshher3/leet-code/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/divyanshher3/leet-code/tree/master/0344-reverse-string) |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/divyanshher3/leet-code/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [2109-adding-spaces-to-a-string](https://github.com/divyanshher3/leet-code/tree/master/2109-adding-spaces-to-a-string) |
 ## Simulation
 |  |
 | ------- |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/divyanshher3/leet-code/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [2109-adding-spaces-to-a-string](https://github.com/divyanshher3/leet-code/tree/master/2109-adding-spaces-to-a-string) |
+## Stack
+|  |
+| ------- |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/divyanshher3/leet-code/tree/master/1910-remove-all-occurrences-of-a-substring) |
 <!---LeetCode Topics End-->
