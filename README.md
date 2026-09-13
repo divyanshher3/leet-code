@@ -57,6 +57,7 @@ my problems
 | [0151-reverse-words-in-a-string](https://github.com/divyanshher3/leet-code/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/divyanshher3/leet-code/tree/master/0344-reverse-string) |
 | [0567-permutation-in-string](https://github.com/divyanshher3/leet-code/tree/master/0567-permutation-in-string) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/divyanshher3/leet-code/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/divyanshher3/leet-code/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [2109-adding-spaces-to-a-string](https://github.com/divyanshher3/leet-code/tree/master/2109-adding-spaces-to-a-string) |
 | [3163-string-compression-iii](https://github.com/divyanshher3/leet-code/tree/master/3163-string-compression-iii) |
@@ -68,6 +69,7 @@ my problems
 ## Stack
 |  |
 | ------- |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/divyanshher3/leet-code/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/divyanshher3/leet-code/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Hash Table
 |  |
