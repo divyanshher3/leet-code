@@ -7,6 +7,7 @@ my problems
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/divyanshher3/leet-code/tree/master/0033-search-in-rotated-sorted-array) |
+| [0054-spiral-matrix](https://github.com/divyanshher3/leet-code/tree/master/0054-spiral-matrix) |
 | [0075-sort-colors](https://github.com/divyanshher3/leet-code/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/divyanshher3/leet-code/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/divyanshher3/leet-code/tree/master/0189-rotate-array) |
@@ -64,6 +65,7 @@ my problems
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/divyanshher3/leet-code/tree/master/0054-spiral-matrix) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/divyanshher3/leet-code/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [2109-adding-spaces-to-a-string](https://github.com/divyanshher3/leet-code/tree/master/2109-adding-spaces-to-a-string) |
 ## Stack
@@ -79,4 +81,8 @@ my problems
 |  |
 | ------- |
 | [0567-permutation-in-string](https://github.com/divyanshher3/leet-code/tree/master/0567-permutation-in-string) |
+## Matrix
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/divyanshher3/leet-code/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
