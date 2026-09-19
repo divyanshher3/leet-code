@@ -11,6 +11,7 @@ my problems
 | [0075-sort-colors](https://github.com/divyanshher3/leet-code/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/divyanshher3/leet-code/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/divyanshher3/leet-code/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/divyanshher3/leet-code/tree/master/0204-count-primes) |
 | [0283-move-zeroes](https://github.com/divyanshher3/leet-code/tree/master/0283-move-zeroes) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/divyanshher3/leet-code/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/divyanshher3/leet-code/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -26,6 +27,7 @@ my problems
 | ------- |
 | [0069-sqrtx](https://github.com/divyanshher3/leet-code/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/divyanshher3/leet-code/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/divyanshher3/leet-code/tree/master/0204-count-primes) |
 ## Two Pointers
 |  |
 | ------- |
@@ -85,4 +87,24 @@ my problems
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/divyanshher3/leet-code/tree/master/0054-spiral-matrix) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/divyanshher3/leet-code/tree/master/0204-count-primes) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/divyanshher3/leet-code/tree/master/0204-count-primes) |
+## Primality Test
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/divyanshher3/leet-code/tree/master/0204-count-primes) |
+## Sieve Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/divyanshher3/leet-code/tree/master/0204-count-primes) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/divyanshher3/leet-code/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
