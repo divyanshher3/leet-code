@@ -58,6 +58,7 @@ my problems
 | ------- |
 | [0125-valid-palindrome](https://github.com/divyanshher3/leet-code/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/divyanshher3/leet-code/tree/master/0151-reverse-words-in-a-string) |
+| [0316-remove-duplicate-letters](https://github.com/divyanshher3/leet-code/tree/master/0316-remove-duplicate-letters) |
 | [0344-reverse-string](https://github.com/divyanshher3/leet-code/tree/master/0344-reverse-string) |
 | [0567-permutation-in-string](https://github.com/divyanshher3/leet-code/tree/master/0567-permutation-in-string) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/divyanshher3/leet-code/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -73,6 +74,7 @@ my problems
 ## Stack
 |  |
 | ------- |
+| [0316-remove-duplicate-letters](https://github.com/divyanshher3/leet-code/tree/master/0316-remove-duplicate-letters) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/divyanshher3/leet-code/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/divyanshher3/leet-code/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Hash Table
@@ -107,4 +109,12 @@ my problems
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/divyanshher3/leet-code/tree/master/0204-count-primes) |
+## Greedy
+|  |
+| ------- |
+| [0316-remove-duplicate-letters](https://github.com/divyanshher3/leet-code/tree/master/0316-remove-duplicate-letters) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0316-remove-duplicate-letters](https://github.com/divyanshher3/leet-code/tree/master/0316-remove-duplicate-letters) |
 <!---LeetCode Topics End-->
