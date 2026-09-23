@@ -6,6 +6,7 @@ my problems
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/divyanshher3/leet-code/tree/master/0001-two-sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/divyanshher3/leet-code/tree/master/0033-search-in-rotated-sorted-array) |
 | [0054-spiral-matrix](https://github.com/divyanshher3/leet-code/tree/master/0054-spiral-matrix) |
 | [0075-sort-colors](https://github.com/divyanshher3/leet-code/tree/master/0075-sort-colors) |
@@ -80,6 +81,7 @@ my problems
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/divyanshher3/leet-code/tree/master/0001-two-sum) |
 | [0567-permutation-in-string](https://github.com/divyanshher3/leet-code/tree/master/0567-permutation-in-string) |
 ## Sliding Window
 |  |
