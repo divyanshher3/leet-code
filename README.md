@@ -13,6 +13,7 @@ my problems
 | [0088-merge-sorted-array](https://github.com/divyanshher3/leet-code/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/divyanshher3/leet-code/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/divyanshher3/leet-code/tree/master/0204-count-primes) |
+| [0217-contains-duplicate](https://github.com/divyanshher3/leet-code/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/divyanshher3/leet-code/tree/master/0283-move-zeroes) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/divyanshher3/leet-code/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/divyanshher3/leet-code/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -46,6 +47,7 @@ my problems
 | ------- |
 | [0075-sort-colors](https://github.com/divyanshher3/leet-code/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/divyanshher3/leet-code/tree/master/0088-merge-sorted-array) |
+| [0217-contains-duplicate](https://github.com/divyanshher3/leet-code/tree/master/0217-contains-duplicate) |
 ## Quicksort
 |  |
 | ------- |
@@ -83,6 +85,7 @@ my problems
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/divyanshher3/leet-code/tree/master/0001-two-sum) |
+| [0217-contains-duplicate](https://github.com/divyanshher3/leet-code/tree/master/0217-contains-duplicate) |
 | [0567-permutation-in-string](https://github.com/divyanshher3/leet-code/tree/master/0567-permutation-in-string) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/divyanshher3/leet-code/tree/master/1832-check-if-the-sentence-is-pangram) |
 ## Sliding Window
