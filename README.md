@@ -63,6 +63,7 @@ my problems
 | [0151-reverse-words-in-a-string](https://github.com/divyanshher3/leet-code/tree/master/0151-reverse-words-in-a-string) |
 | [0316-remove-duplicate-letters](https://github.com/divyanshher3/leet-code/tree/master/0316-remove-duplicate-letters) |
 | [0344-reverse-string](https://github.com/divyanshher3/leet-code/tree/master/0344-reverse-string) |
+| [0387-first-unique-character-in-a-string](https://github.com/divyanshher3/leet-code/tree/master/0387-first-unique-character-in-a-string) |
 | [0567-permutation-in-string](https://github.com/divyanshher3/leet-code/tree/master/0567-permutation-in-string) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/divyanshher3/leet-code/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/divyanshher3/leet-code/tree/master/1832-check-if-the-sentence-is-pangram) |
@@ -86,6 +87,7 @@ my problems
 | ------- |
 | [0001-two-sum](https://github.com/divyanshher3/leet-code/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/divyanshher3/leet-code/tree/master/0217-contains-duplicate) |
+| [0387-first-unique-character-in-a-string](https://github.com/divyanshher3/leet-code/tree/master/0387-first-unique-character-in-a-string) |
 | [0567-permutation-in-string](https://github.com/divyanshher3/leet-code/tree/master/0567-permutation-in-string) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/divyanshher3/leet-code/tree/master/1832-check-if-the-sentence-is-pangram) |
 ## Sliding Window
@@ -124,4 +126,12 @@ my problems
 |  |
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/divyanshher3/leet-code/tree/master/0316-remove-duplicate-letters) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/divyanshher3/leet-code/tree/master/0387-first-unique-character-in-a-string) |
+## Counting
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/divyanshher3/leet-code/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
