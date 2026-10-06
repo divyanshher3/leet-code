@@ -30,6 +30,7 @@ my problems
 | [0069-sqrtx](https://github.com/divyanshher3/leet-code/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/divyanshher3/leet-code/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/divyanshher3/leet-code/tree/master/0204-count-primes) |
+| [0509-fibonacci-number](https://github.com/divyanshher3/leet-code/tree/master/0509-fibonacci-number) |
 ## Two Pointers
 |  |
 | ------- |
@@ -134,4 +135,16 @@ my problems
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/divyanshher3/leet-code/tree/master/0387-first-unique-character-in-a-string) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/divyanshher3/leet-code/tree/master/0509-fibonacci-number) |
+## Recursion
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/divyanshher3/leet-code/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/divyanshher3/leet-code/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
