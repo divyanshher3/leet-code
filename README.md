@@ -11,6 +11,7 @@ my problems
 | [0054-spiral-matrix](https://github.com/divyanshher3/leet-code/tree/master/0054-spiral-matrix) |
 | [0075-sort-colors](https://github.com/divyanshher3/leet-code/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/divyanshher3/leet-code/tree/master/0088-merge-sorted-array) |
+| [0128-longest-consecutive-sequence](https://github.com/divyanshher3/leet-code/tree/master/0128-longest-consecutive-sequence) |
 | [0189-rotate-array](https://github.com/divyanshher3/leet-code/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/divyanshher3/leet-code/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/divyanshher3/leet-code/tree/master/0217-contains-duplicate) |
@@ -87,6 +88,7 @@ my problems
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/divyanshher3/leet-code/tree/master/0001-two-sum) |
+| [0128-longest-consecutive-sequence](https://github.com/divyanshher3/leet-code/tree/master/0128-longest-consecutive-sequence) |
 | [0217-contains-duplicate](https://github.com/divyanshher3/leet-code/tree/master/0217-contains-duplicate) |
 | [0387-first-unique-character-in-a-string](https://github.com/divyanshher3/leet-code/tree/master/0387-first-unique-character-in-a-string) |
 | [0567-permutation-in-string](https://github.com/divyanshher3/leet-code/tree/master/0567-permutation-in-string) |
@@ -147,4 +149,8 @@ my problems
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/divyanshher3/leet-code/tree/master/0509-fibonacci-number) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/divyanshher3/leet-code/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
