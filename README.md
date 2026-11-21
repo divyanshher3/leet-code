@@ -10,6 +10,7 @@ my problems
 | [0033-search-in-rotated-sorted-array](https://github.com/divyanshher3/leet-code/tree/master/0033-search-in-rotated-sorted-array) |
 | [0054-spiral-matrix](https://github.com/divyanshher3/leet-code/tree/master/0054-spiral-matrix) |
 | [0075-sort-colors](https://github.com/divyanshher3/leet-code/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/divyanshher3/leet-code/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/divyanshher3/leet-code/tree/master/0088-merge-sorted-array) |
 | [0128-longest-consecutive-sequence](https://github.com/divyanshher3/leet-code/tree/master/0128-longest-consecutive-sequence) |
 | [0189-rotate-array](https://github.com/divyanshher3/leet-code/tree/master/0189-rotate-array) |
@@ -153,4 +154,12 @@ my problems
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/divyanshher3/leet-code/tree/master/0128-longest-consecutive-sequence) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/divyanshher3/leet-code/tree/master/0078-subsets) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0078-subsets](https://github.com/divyanshher3/leet-code/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
